@@ -53,7 +53,7 @@ The connection ID `my_bigquery_connection` will be used later in the next sectio
 
 ### Create a BigQueryExecuteOperator Task to Run Query
 
-Finally, we've come to the point we can use the [BigQueryExecuteQueryOperator](https://airflow.apache.org/docs/apache-airflow-providers-google/stable/_api/airflow/providers/google/cloud/operators/bigquery/index.html#airflow.providers.google.cloud.operators.bigquery.BigQueryExecuteQueryOperator). 🎉
+Finally, we've come to the point we can use the [BigQueryExecuteQueryOperator](https://airflow.apache.org/docs/apache-airflow-providers-google/stable/_api/airflow/providers/google/cloud/operators/bigquery/index.html#airflow.providers.google.cloud.operators.bigquery.BigQueryExecuteQueryOperator). 🎉 Yes, it may take some time for the first time we want to use an external system to set up. However, once you did it, it'll be easier afterwards. 🙂
 
 Suppose I wanna find top 5 coffee brands with this query:
 
