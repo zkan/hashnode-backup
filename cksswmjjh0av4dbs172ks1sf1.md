@@ -1,7 +1,5 @@
 ## รีวีวหนังสือ "Data Pipelines Pocket Reference: Moving and Processing Data for Analytics"
 
-![data-pipelines-pocket-reference.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1629978714011/W1iskWy-E.png)
-
 เป็นหนังสือที่เขียนโดย  [James Densmore](https://twitter.com/jamesdensmore), Director of Data Infrastructure ที่ HubSpot
 
 ## สรุปออกมาเป็น 3 ประโยค 😎
