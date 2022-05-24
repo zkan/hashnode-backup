@@ -1,4 +1,4 @@
-## รีวีวหนังสือ "Data Pipelines Pocket Reference: Moving and Processing Data for Analytics"
+## รีวิวหนังสือ "Data Pipelines Pocket Reference: Moving and Processing Data for Analytics"
 
 เป็นหนังสือที่เขียนโดย  [James Densmore](https://twitter.com/jamesdensmore), Director of Data Infrastructure ที่ HubSpot
 
